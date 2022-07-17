@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("First java git hub");
+        System.out.println("First java git hubb");
     }
 }
